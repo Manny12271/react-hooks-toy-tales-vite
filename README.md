@@ -4,6 +4,10 @@ You've got a friend in need! Again!
 
 Andy has misplaced of his toys (again) and need your help to organize them.
 
+## Screenshot
+
+![Toy Tales Screenshot](assets/toy-tales-screenshot.png)
+
 ## Setup
 
 All the information about Andy's toys can be found in the `db.json` file. We'll
